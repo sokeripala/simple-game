@@ -1,6 +1,5 @@
 # we are making a basic calculator today
 
-import matplotlib.pyplot as plt
 import tkinter as tk
 
 window = tk.Tk()
