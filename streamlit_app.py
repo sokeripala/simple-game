@@ -1,11 +1,8 @@
 # we are making a basic calculator today
 
-import tkinter as tk
+import matplotlib.pyplot as plt
 
-window = tk.Tk()
+print("Today we will do a test. Let's see if you can pass it.")
 
-window.title("calculator")
-window.geometry("300x400")
 
-window.mainloop()
 
